@@ -14,8 +14,6 @@ function cipherRot13(str) {
   }
 }
 
-// cipherRot13("SERR PBQR PNZC");
-// console.log(cipherRot13("POS NIOE ETPO"));
 
 document.getElementById("convert").addEventListener("click", function () {
   let alpha = document.getElementById("alphaInput").value;
